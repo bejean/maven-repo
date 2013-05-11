@@ -3,7 +3,6 @@ maven-repo
 
 Maven repository
 
-
 Use in pom.xml :
 
 	<repositories>
@@ -28,7 +27,6 @@ Use in pom.xml :
 			<url>https://raw.github.com/bejean/maven-repo/master/releases</url>
 		</repository>
 	</repositories>
-
 
 
 How to :
